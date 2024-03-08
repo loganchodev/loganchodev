@@ -1,4 +1,4 @@
-![Hello World! I’m Logan](https://github.com/loganchodev/loganchodev/assets/161540640/2cf43421-559c-4bdf-bdb1-4ee8ae9f5e78)
+![Hello World! I’m Logan](https://github.com/loganchodev/loganchodev/assets/161540640/ba26089b-81db-4bd4-b1a6-586bf4df2654)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
