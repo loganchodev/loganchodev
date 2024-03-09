@@ -19,8 +19,8 @@
 
 ## 📫 Contact
 
-- 📧 Email: [loganchodev@gmail.com](mailto:loganchodev@gmail.com)
-- 🔗 Notion: [Notion Portfolio](https://branch-conga-83f.notion.site/913b685f93c04a84bd738fa3f5ff0f54?pvs=4)
+- 📧 Email : [loganchodev@gmail.com](mailto:loganchodev@gmail.com)
+- 🔗 Notion : [Notion Portfolio](https://branch-conga-83f.notion.site/913b685f93c04a84bd738fa3f5ff0f54?pvs=4)
 
 ## 📊 GitHub Stats
 
@@ -35,8 +35,8 @@
 
 ## 📝 Learning Log
 
-- **2024**: ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png) Java, JSP, ![React](https://img.icons8.com/officel/24/000000/react.png) React, ![Spring](https://img.icons8.com/color/24/000000/spring-logo.png) Spring, SpringBoot
-- **2023**: ![HTML5](https://img.icons8.com/color/24/000000/html-5--v1.png) HTML5, ![CSS3](https://img.icons8.com/color/24/000000/css3.png) CSS, ![JavaScript](https://img.icons8.com/color/24/000000/javascript--v1.png) JavaScript
+- **2024** : ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png) Java, JSP, ![React](https://img.icons8.com/officel/24/000000/react.png) React, ![Spring](https://img.icons8.com/color/24/000000/spring-logo.png) Spring, SpringBoot
+- **2023** : ![HTML5](https://img.icons8.com/color/24/000000/html-5--v1.png) HTML5, ![CSS3](https://img.icons8.com/color/24/000000/css3.png) CSS, ![JavaScript](https://img.icons8.com/color/24/000000/javascript--v1.png) JavaScript
 
 
 Thank you for visiting! ✨
