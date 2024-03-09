@@ -1,5 +1,7 @@
 ![Hello World! I’m Logan](https://github.com/loganchodev/loganchodev/assets/161540640/ba26089b-81db-4bd4-b1a6-586bf4df2654)
 
+![logan](https://github.com/loganchodev/loganchodev/assets/161540640/19465d43-a76d-417e-b184-434ecf26f902)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
