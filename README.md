@@ -1,6 +1,7 @@
 ![Hello World! I’m Logan](https://github.com/loganchodev/loganchodev/assets/161540640/ba26089b-81db-4bd4-b1a6-586bf4df2654)
 
-  <img src="https://github.com/loganchodev/loganchodev/assets/161540640/76972b66-6643-4d85-86d3-b66eac2a3c1a" alt="constlogan" style="float:left; margin-right: 10px;" />
+## 🌟 Tech Stack
+<img src="https://github.com/loganchodev/loganchodev/assets/161540640/76972b66-6643-4d85-86d3-b66eac2a3c1a" alt="constlogan" style="float:left; margin-right: 10px;" />
 <p align="left">
   # code : <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
