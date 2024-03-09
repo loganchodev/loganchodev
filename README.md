@@ -1,7 +1,7 @@
 ![Hello World! I’m Logan](https://github.com/loganchodev/loganchodev/assets/161540640/ba26089b-81db-4bd4-b1a6-586bf4df2654)
 
 ## 🌟 Tech Stack
-<div style="display: flex; align-items: center;">
+<div style="display: block;">
   <img src="https://github.com/loganchodev/loganchodev/assets/161540640/76972b66-6643-4d85-86d3-b66eac2a3c1a" alt="constlogan" style="margin-right: 10px;" />
   <div>
     <p># code :</p>
