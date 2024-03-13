@@ -2,7 +2,7 @@
 
 ## 🌟 Tech Stack
 <div style="display: block;">
-  <img src="![logan](https://github.com/loganchodev/loganchodev/assets/161540640/60decd93-7086-4627-b506-39ee708cb409)" alt="constlogan" style="margin-right: 10px;" />
+  <img src="https://github.com/loganchodev/loganchodev/assets/161540640/60decd93-7086-4627-b506-39ee708cb409" alt="constlogan" style="margin-right: 10px;" />
   <div>
     # framework : <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
