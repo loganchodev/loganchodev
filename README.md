@@ -20,7 +20,7 @@
 ## 📫 Contact
 
 - 📧 Email : [loganchodev@gmail.com](mailto:loganchodev@gmail.com)
-- 🔗 Notion : [Notion Portfolio](https://www.notion.so/Logan-26328cb1a7244ce6a2ac5937dfd1c0a4)
+- 🔗 Notion : [Notion Portfolio](https://www.notion.so/Portfolio-5a6794086cf44e5ca039093f33c5e94f)
 
 ## 📊 GitHub Stats
 
